@@ -1,2 +1,2 @@
-# sandbox
-Sandbox repository for testing purposes
+﻿# sandbox
+Sandbox repository for testing purposes.
